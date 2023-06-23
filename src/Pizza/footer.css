@@ -1,0 +1,54 @@
+.footer-containter{
+    padding-bottom: 40px;
+    padding-top: 20px;
+   
+    width: 100%;
+    background-color:rgb(38, 50, 56) ;
+    color:rgb(38, 50, 56) ;
+    display:  flex;
+    justify-content: space-between;
+    
+}
+.logo-heading h1{
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.logo-descripation  span{
+    margin-top: 50px;
+    padding: 10px;
+    color:rgb(131, 154, 177) ;
+}
+
+.Playstore{
+    margin-right: 50px;
+}
+
+.Playstore p{
+    /* border: 2px solid red; */
+    /* margin-left: -70px; */
+    font-size: 30px;
+   margin-top: 30px;
+   margin-bottom: 20px;
+   color:rgb(131, 154, 177) ;;
+}
+#app-store{
+    padding-top: 10px;
+    width: 120px;
+}
+#google-store{
+    padding-top: 10px;
+    width:  140px;
+}
+
+
+.Allright{
+    border-top: 0.5px dotted rgb(92, 111, 131);
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 1.4em;
+    background-color: rgb(26, 39, 53);
+    color:rgb(92, 111, 131) ;
+}

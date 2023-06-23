@@ -1,0 +1,53 @@
+.Cart_section{
+    overflow :visible;
+}
+
+.Table_data{
+   /* border: 2px solid red; */
+    border-bottom: 3px dotted wheat;
+}
+
+.Cart_data{
+   margin: 10px;
+   padding: 10px;
+}
+.Cart_data td{
+   margin-top: 10px;
+   /* border: 2px solid red; */
+   width: 20%;
+}
+
+.Cart_data #Cart_name{
+    text-align: center;
+
+}
+
+.Cart_priceDec #price{
+    padding: 30px;
+    /* border: 2px solid black; */
+}
+
+.Cart_footer{
+    padding: 5px;
+    margin-top: 40%;
+    background-color: whitesmoke;
+   box-shadow: rgba(0, 0, 0, 0.12) 0px -0.56rem 0.62rem 0px;
+   
+}
+
+.Subtotal{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Cart_footer button{
+    bottom: 0px;
+    cursor: pointer;
+    padding: 0.7em 1.5em;
+    width: 90%;
+    height: 2.5rem;
+    background: rgb(130, 187, 55);
+    color: rgb(255, 255, 255);
+    border-radius: 12px;
+}
